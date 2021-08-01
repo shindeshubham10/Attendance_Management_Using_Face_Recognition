@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "373675219097",
+    "firebase_url": "https://attendacemanagementsystem.firebaseio.com",
+    "project_id": "attendacemanagementsystem",
+    "storage_bucket": "attendacemanagementsystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373675219097:android:1b4010ff006b0670f18008",
+        "android_client_info": {
+          "package_name": "com.alphaartrem.attendanceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373675219097-n6qbmjb6g4283ln13q9q44ffff3p40vd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9lbuUhXE_5uyD4hU0rgplq4hsjFNpdgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373675219097-n6qbmjb6g4283ln13q9q44ffff3p40vd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

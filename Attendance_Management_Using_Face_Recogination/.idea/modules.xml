@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Attendance_Management_Using_Face_Recogination.iml" filepath="$PROJECT_DIR$/.idea/Attendance_Management_Using_Face_Recogination.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Face_Recognition_AI/.idea/Face_Recognition_AI.iml" filepath="$PROJECT_DIR$/../Face_Recognition_AI/.idea/Face_Recognition_AI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Face_detection/.idea/Face_detection.iml" filepath="$PROJECT_DIR$/../Face_detection/.idea/Face_detection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Student_Management/.idea/Student_Management.iml" filepath="$PROJECT_DIR$/../Student_Management/.idea/Student_Management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Video_Management_System(oosd)/.idea/Video_Management_System(oosd).iml" filepath="$PROJECT_DIR$/../Video_Management_System(oosd)/.idea/Video_Management_System(oosd).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" />
+    </modules>
+  </component>
+</project>
